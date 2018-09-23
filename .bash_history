@@ -216,3 +216,91 @@ ls -a
 cd hublii/
 git push https://github.com/Bhrath/devops.git/ master
 ls -a
+cd lakshith/
+ls
+cd mastereed/
+ls
+vi evod.c
+git add .
+git commit -m " edited evod.c "
+git branch
+git push https://github.com/Bhrath/newc.git/ master
+vi makefile 
+make
+vi mul2.c 
+vi main.c
+make
+vi mul2.c 
+make
+vi mul2.c 
+make
+pwd
+vi makefile 
+mv main.c src/main.c
+cd ..
+make
+cd -
+ls
+vi mu12.c
+rm mul2.c 
+ls
+vi main.c
+ls
+git add .
+vi makefile 
+git add .
+git add main.c
+git add makefile
+git commit -m " after removing mu12.c "
+git push https://github.com/Bhrath/newc.git/ master
+vi makefile 
+git add makefile
+git commit -m " 2nd edit "
+git push https://github.com/Bhrath/newc.git/ master
+vi main.c
+git add main.c
+git commit -m " 3rd edit "
+git push https://github.com/Bhrath/newc.git/ master
+ls
+vi makefile 
+vi main.c
+git add main.c 
+git commit -m " 4th edit"
+git push https://github.com/Bhrath/newc.git/ master
+sudo cd /var/lib/jenkins/workspace/
+cd 
+sudo cd /var/lib/jenkins/workspace/
+cd /var/lib/jenkins/workspace/
+ls
+cd buildd1/
+ls
+./RES.exe 
+cd .ssh
+ls
+vi authorized_keys 
+cd
+ls
+ls
+cd hublii/
+ls
+ls -a
+git branch
+cd ..
+ls -a
+git branch
+git add 
+git add .
+git commit -m " init git in home directory "
+git push https://github.com/Bhrath/devops.git/ master
+git cd hublii/
+ls
+cd hublii/
+ls
+cd ..
+find , -name "query1"
+find . -name "query1"
+find . -iname "query1"
+git pull https://github.com/Bhrath/devops.git/ 
+git push https://github.com/Bhrath/devops.git/ 
+git push https://github.com/Bhrath/devops.git/ master
+ls
